@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# arataca89@gmail.complex
+# arataca89@gmail.com
 
 # CodeWars exercise:
 # Implement a method that accepts 3 integer values a, b, c.
