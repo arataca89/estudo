@@ -29,13 +29,7 @@ def is_square(n):
         
     raiz = math.sqrt(n)
     inteiro = math.floor(raiz)
-    
-    #print(raiz)
-    #print(inteiro)
-    
-    #print(n)
-    #print(inteiro*inteiro)
-    
+  
     if(n == (inteiro*inteiro)):
         return True
     else:
